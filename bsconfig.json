@@ -27,7 +27,7 @@
     "re-classnames",
     "bs-webapi",
     "rescript-blossom",
-    "reason-promise",
+    "@ryyppy/rescript-promise",
     "re-formality"
   ],
   "bs-dev-dependencies": [
